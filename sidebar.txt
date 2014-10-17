@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lgi:home|Door43 (lgi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lgi|d43-lgi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lgi/archive/master.zip|d43-lgi.zip]]
+
+**Recent Changes**
+{{changes>ns = lgi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lgi|Ethnologue data]]
+
